@@ -8,14 +8,14 @@ function displayItems() {
         item += `
             <div class="item">
                 <div class="input-controller flex mb-4">
-                    <textarea disabled class="p-3 w-60 max-w-96 max-h-20 rounded-lg resize-none ">${itemArray[i]}</textarea>
+                    <textarea disabled class="p-3 w-60 max-w-96 max-h-20 rounded-lg resize-none  shadow-md shadow-gray-800">${itemArray[i]}</textarea>
                     <div class="edit-controls ml-4 flex flex-col">
-                        <button class="editBtn p-2 rounded-lg bg-slate-400 h-8 mb-1.5 active:bg-green-600 hover:bg-green-400"><i class="fas fa-edit"></i></button>
-                        <button class="deleteBtn p-2 rounded-lg bg-slate-400 h-8 active:bg-green-600 hover:bg-green-400"><i class="fas fa-trash"></i></button>
+                        <button class="editBtn p-2 rounded-lg bg-slate-400 h-8 mb-1.5 active:bg-green-600 hover:bg-green-400 shadow-md shadow-gray-600"><i class="fas fa-edit"></i></button>
+                        <button class="deleteBtn p-2 rounded-lg bg-slate-400 h-8 active:bg-green-600 hover:bg-green-400 shadow-md shadow-gray-600"><i class="fas fa-trash"></i></button>
                     </div>
                     <div class="update-controller ml-3 flex flex-col hidden">
-                        <button class="saveBtn fas fa-save p-2 flex mb-1.5 rounded-lg bg-slate-400 h-8 active:bg-green-600 hover:bg-green-400"></button>
-                        <button class="cancelBtn fas fa-close p-2 rounded-lg bg-slate-400 h-8 active:bg-green-600 hover:bg-green-400"></button>
+                        <button class="saveBtn fas fa-save p-2 flex mb-1.5 rounded-lg bg-slate-400 h-8 active:bg-green-600 hover:bg-green-400 shadow-md shadow-gray-600"></button>
+                        <button class="cancelBtn fas fa-close p-2 rounded-lg bg-slate-400 h-8 active:bg-green-600 hover:bg-green-400 shadow-md shadow-gray-600"></button>
                     </div>
                 </div>
             </div>
