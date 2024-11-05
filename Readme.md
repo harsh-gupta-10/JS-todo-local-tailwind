@@ -5,6 +5,7 @@ A simple and interactive To-Do list application built with **HTML**, **Tailwind 
 ![App Screenshot](src/imgs/screenshot-1.png)
 
 ## Features
+
 - Add new tasks.
 - Mark tasks as completed.
 - Delete tasks.
@@ -12,6 +13,7 @@ A simple and interactive To-Do list application built with **HTML**, **Tailwind 
 - Responsive design for both desktop and mobile views.
 
 ## Technologies Used
+
 - **HTML** – Markup for the structure of the application.
 - **Tailwind CSS** – Utility-first CSS framework for responsive design and styling.
 - **JavaScript** – Logic to handle adding, deleting, and toggling tasks, as well as storing and retrieving tasks from **localStorage**.
@@ -19,14 +21,17 @@ A simple and interactive To-Do list application built with **HTML**, **Tailwind 
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/harsh-gupta-10/JS-todo-local-tailwind.git
 
 2. Navigate to the project directory:
+
    ```bash
    cd JS-todo-local-tailwind
 
 3. Open index.html in your browser to see the app in action.
+
   Alternatively, you can open the index.html file using your preferred code editor and live server extension (e.g., Live Server in VS Code) to see it dynamically.
 
 ## How It Works (LocalStorage)
@@ -50,8 +55,9 @@ Feel free to fork this repository and submit issues or pull requests. Contributi
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+ This project is licensed under the MIT License.<!-- – see the [LICENSE](LICENSE) file for details. -->
 
 ## Acknowledgments
+
 - **Tailwind CSS** for making beautiful, responsive design easier.
 - **JavaScript** for handling app interactivity and localStorage functionality.
