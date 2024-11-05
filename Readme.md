@@ -37,7 +37,9 @@ Try it yourself by clicking [here](https://js-todo-local-tailwind.vercel.app/).
 
   Alternatively, you can open the index.html file using your preferred code editor and live server extension (e.g., Live Server in VS Code) to see it dynamically.
 
-  Or Visit [here](https://js-todo-local-tailwind.vercel.app/).
+  Or Visit here
+      ```bash
+  https://github.com/harsh-gupta-10/JS-todo-local-tailwind/tree/public
 
 ## How It Works (LocalStorage)
 
