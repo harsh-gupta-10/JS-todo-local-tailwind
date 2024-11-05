@@ -20,4 +20,4 @@ A simple and interactive To-Do list application built with **HTML**, **Tailwind 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harsh-gupta-10/JS-todo-local-tailwind
+   git clone https://github.com/harsh-gupta-10/JS-todo-local-tailwind.git
