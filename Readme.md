@@ -4,6 +4,9 @@ A simple and interactive To-Do list application built with **HTML**, **Tailwind 
 
 ![App Screenshot](src/imgs/screenshot-1.png)
 
+Try it yourself by clicking [here](https://js-todo-local-tailwind.vercel.app/).
+
+
 ## Features
 
 - Add new tasks.
@@ -33,6 +36,8 @@ A simple and interactive To-Do list application built with **HTML**, **Tailwind 
 3. Open index.html in your browser to see the app in action.
 
   Alternatively, you can open the index.html file using your preferred code editor and live server extension (e.g., Live Server in VS Code) to see it dynamically.
+
+  Or Visit [here](https://js-todo-local-tailwind.vercel.app/).
 
 ## How It Works (LocalStorage)
 
