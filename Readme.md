@@ -4,6 +4,8 @@ A simple and interactive To-Do list application built with **HTML**, **Tailwind 
 
 ![App Screenshot](src/imgs/screenshot-1.png)
 
+Try it your selft by clicking [here](https://js-todo-local-tailwind.vercel.app/).
+
 ## Features
 
 - Add new tasks.
