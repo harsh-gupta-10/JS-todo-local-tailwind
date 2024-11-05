@@ -34,10 +34,6 @@ A simple and interactive To-Do list application built with **HTML**, **Tailwind 
 
   Alternatively, you can open the index.html file using your preferred code editor and live server extension (e.g., Live Server in VS Code) to see it dynamically.
 
-  Or Visit here
-      ```bash
-  https://github.com/harsh-gupta-10/JS-todo-local-tailwind/tree/public
-
 ## How It Works (LocalStorage)
 
 - The app uses **localStorage** to persist tasks across page reloads.
