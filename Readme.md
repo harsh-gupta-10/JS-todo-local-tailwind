@@ -36,6 +36,8 @@ Try it your selft by clicking [here](https://js-todo-local-tailwind.vercel.app/)
 
   Alternatively, you can open the index.html file using your preferred code editor and live server extension (e.g., Live Server in VS Code) to see it dynamically.
 
+  Or Check the Demo [here](https://js-todo-local-tailwind.vercel.app/).
+
 ## How It Works (LocalStorage)
 
 - The app uses **localStorage** to persist tasks across page reloads.
